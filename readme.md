@@ -6,3 +6,8 @@ This formulation is straightforward and just for this demonstration. Some altern
 
     * Predict the pollution for the next hour based on the weather conditions and pollution over the last 24 hours.
     * Predict the pollution for the next hour as above and given the “expected” weather conditions for the next hour.
+
+	
+	
+	
+ Credit: https://machinelearningmastery.com/multivariate-time-series-forecasting-lstms-keras/
